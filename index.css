@@ -1,0 +1,184 @@
+*
+{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+
+            /* part-1 */
+        /* nav bar  */
+.divleft
+{
+   margin-left: auto;
+}
+
+
+
+            /* part-2 */
+#part-two
+{
+    padding: 50px;
+    color: white;
+}
+.app-img
+{
+    width: 500px;
+}
+.part-two-header
+{
+    font-size: 50px;
+    font-weight: bold;
+}
+.part-two-para
+{
+    font-size: 20px;
+}
+
+            /* part-three */
+    
+    #part-three
+    {
+        padding: 70px;
+    }
+
+    #big
+    {
+        font-size: 100px;
+        font-weight: bold;
+    }
+    .part3-side
+    {
+        background-color:#1A374D;
+       color: white;
+       text-align: center;
+       padding-top: 100px;
+    }
+
+    /* part-four */
+
+    .part-four-top
+    {
+        text-align: center;
+        background-color: #ECECEC;
+        padding: 20px 15px;
+    }
+
+    .part-4-row1
+    {
+        background-color:#6998AB ;
+        color: white;
+        padding: 40px 30px;
+       
+    }
+
+    .part-4-row2
+    {
+        background-color:#406882 ;
+        color: white;
+        padding: 40px 30px;
+    }
+
+    .part-4-row3
+    {
+        background-color:#1A374D;
+        color: white;
+        padding: 40px 30px;
+    }
+
+
+    /* part-five */
+
+.part-five-top
+{
+    text-align: center;
+    padding: 30px;
+}
+
+.part-five-inner
+{
+    padding: 40px;
+}
+
+.part-five-img
+{
+    width: 90px;
+}
+.part5-flex
+{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+
+    /* part-six */
+    .part6-hide
+    {
+        visibility: hidden;
+    }
+    .part6-card-title
+    {
+        font-weight: bold;
+    }
+    .part6-read
+    {
+        font-weight: bold;
+    }
+
+    /* part-seven */
+
+    #part-seven
+    {
+        background-color: #ECECEC;
+        padding: 20px;
+    }
+
+
+    /* part-8 */
+        #part-eight
+        {
+            padding: 50px;
+            text-align: center;
+        }
+    
+        /* part-9 */
+        #part-nine
+            {
+        color: white;
+        padding: 30px;
+            }
+        .part9-big
+        {
+            font-weight: bold;
+            font-size: 35px;
+        }
+        
+        .part9-para
+        {
+            font-weight:bold;
+        }
+        .para-small
+
+        {
+            font-size: 15px;
+        }
+    /* common classes */
+
+    .make-bold
+    {
+        font-weight: bold;
+    }
+    .part5-inner-color
+    {
+        color:#2C2891;
+        font-weight: bold;
+    }
+    p
+    {
+        font-size: 20px;
+    }
+
+    span
+    {
+        color:#4D96FF;
+        font-weight: bold;
+    }
